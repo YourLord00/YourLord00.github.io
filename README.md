@@ -23,4 +23,4 @@ Parameters are used for the users explore and get more details in the narative v
 Additional Note
 Below are Online Code Reference
 
-[Tool-tip](https://d3-graph-gallery.com/graph/interactivity_tooltip.html) User action Css control D3-Annotation Tutorial
+[Tool-tip](https://d3-graph-gallery.com/graph/interactivity_tooltip.html) [User action](https://chartio.com/resources/tutorials/how-to-show-data-on-mouseover-in-d3js/#creating-a-tooltip-using-mouseover-events) [Css control](https://www.w3schools.com/css/css_font.asp) [D3-Annotation Tutorial](https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js)
