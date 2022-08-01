@@ -1,3 +1,6 @@
+#[]
+
+
 # Visualization Narrative
 The project follows the interative slideshow narrative visualization structure. The Home represents the base of what is the visualization structure. The user is being prompted and led to the author driven content and will be led through two additional scenes representing stem. In each scene, user is welcome to explore specific data point on the graph with detailed corresponded datum, which means that users can decided to do whether they are going to drill down into details in a slide
 
